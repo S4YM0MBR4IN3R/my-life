@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha vida</title>
+    <link rel="stylesheet" href="mylife.css">
+</head>
+<body>
+    <h1>Ola prazer meu nome é Saymom Brainer, tenho 18 anos, passo a maioria do tem (quando não estou na escola) no celular </h1>
+ 
+    <p>Pretendo encontrar um emprego logo depois de terminar o curso ALURA</p>
+  
+    <h2>Hobby</h2>
+  
+    <p>assisti animes</p>
+
+    <p>passar um tempo jogando meus jogos favoritos no meu Celular</p>
+   
+    <p>assitindo teorias de animes</p>
+</body>
+</html>
+
+
+CSS
+
+body { 
+    background: radial-gradient(farthest-corner at right top,#FF007B, #06182D);
+}
+
+h1 {
+    font-weight: bold;
+}
+
+
+
+MYLIFE2
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre mim</title>
+    <link rel="stylesheet" href="mylife2.css">
+</head>
+<body>
+    
+</body>
+</html>
